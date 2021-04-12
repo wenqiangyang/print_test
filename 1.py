@@ -1,3 +1,3 @@
 for i in 'test_print':
-    print('*'+i+'0')
+    print('***'+i+'0')
 
